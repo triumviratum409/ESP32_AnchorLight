@@ -1,0 +1,5 @@
+remote_wifi_ssid 		= 
+remote_wifi_password 	= 
+local_wifi_ssid			= ESP32
+local_wifi_password		= 00000000
+update_url				= http://riopiri.ch/arduino/CheckForUpdate.php
