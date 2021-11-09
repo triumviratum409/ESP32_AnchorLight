@@ -6,8 +6,8 @@
  				Device sets up WiFi network for configuration.
  				The sketch has an implemented OTA routine. Go to config page to configure OTA endpoint.
  
- 				Connect to ESP32 AcessPoint and open: esp32.local or 192.168.4.1
+ Connect to ESP32 AcessPoint and open: esp32.local or 192.168.4.1
 
- 				Fill out credentials for Access Point and complete config form, as applicable.
+ Fill out credentials for Access Point and complete config form, as applicable.
 
  Wiring:		PIN G23 connected to control relay.
